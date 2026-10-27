@@ -123,7 +123,7 @@
 
 * 🎮 [**jogo-da-velha-sockets-tcp**](https://github.com/VPariz/jogo-da-velha-sockets-tcp) — Two-player network Tic-Tac-Toe in C over raw TCP sockets (Winsock2) with custom application-layer message protocol, turn synchronization, and official LaTeX technical report (IME).
 * ⚡ [**Teste-Ponte-H**](https://github.com/VPariz/Teste-Ponte-H) — Bare-metal C firmware for dual DC motor actuation through H-bridge power stages on STM32 BluePill (STM32F103 / HAL) for RoboIME robotics.
-* 🌐 [**lab-redes-c-esp32**](https://github.com/VPariz/lab-redes-c-esp32) — C sockets (UDP chat & TCP chunked file transfer) alongside ESP32 embedded home automation firmware (HTTP webserver & Bluetooth Classic).
+* 🌐 [**lab-redes-c-esp32**](https://github.com/VPariz/lab-redes-c-esp32) — ESP32 smart home automation firmware (embedded HTTP webserver with STA/SoftAP failover, Bluetooth SPP remote control, and optocoupled AC relay actuation) with comprehensive 9-page LaTeX engineering guide.
 * 🤖 [**bot-promocoes-telegram**](https://github.com/VPariz/bot-promocoes-telegram) — Asynchronous Telegram scraper using MTProto with hierarchical multi-LLM deal extraction (Groq, DeepSeek, Gemini) and Google Sheets integration.
 * 📋 [**painel-vagas-flask**](https://github.com/VPariz/painel-vagas-flask) — Full-stack recruitment CRM tracking technical interview pipelines with RFC 5545 iCalendar feeds and Google Calendar OAuth 2.0.
 
