@@ -5,7 +5,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joao-victor-pariz)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VPariz)
 [![Status](https://img.shields.io/badge/IME-Engenharia_Eletrônica-104911?style=for-the-badge&logo=academia&logoColor=white)](https://www.ime.eb.mil.br/)
-[![Cidadania](https://img.shields.io/badge/Cidadão_UE-Passaporte_Italiano_🇮🇹-003399?style=for-the-badge&logo=europeanunion&logoColor=white)](https://europa.eu/)
 
 <br/>
 
@@ -20,7 +19,7 @@
 ### ⚡ Resumo Rápido
 
 * 🎓 **Formação:** Bacharelado em Engenharia Eletrônica pelo **Instituto Militar de Engenharia (IME)** — Rio de Janeiro, Brasil (CR > 8.0).
-* 🔬 **Iniciação Científica (PIBIC/CNPq):** Desenvolvimento de pipelines para reconstrução filogenética via Distância de Compressão Normalizada (NCD) e compressores gramaticais (IRR-C / ACFG). Artigos aceitos e submetidos ao **BSB 2026** e **X-Meeting 2026**.
+* 🔬 **Iniciação Científica (PIBIC/CNPq):** Desenvolvimento de pipelines para reconstrução filogenética via Distância de Compressão Normalizada (NCD) e compressores gramaticais (IRR-C / ACFG). Trabalho aceito e apresentado no **X-Meeting 2026**.
 * 🤖 **Robótica & Autonomia (RoboIME):** Coautor de artigo no **ISMCR 2026 (Springer LNCS)** sobre sensoriamento 3D, LiDAR e SLAM (ORB-SLAM3/Cartographer) com ROS 2 e TurtleBot3.
 * 🐧 **Sistemas & Embarcados:** Experiência prática com microcontroladores (STM32, STM32MP1), subsistema Linux Industrial I/O (IIO), compilação cruzada ARM (Buildroot) e administração Linux Debian (5º CTA / Exército Brasileiro).
 * 🌐 **Idiomas:** Inglês Fluente (**CIDEX IPL ING 3 3 3 3 / C1 / Cambridge B2 First**), Alemão Intermediário (DSD I / CIDEX ALE 2 2), Espanhol Instrumental.
@@ -72,7 +71,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🧬 <a href="https://github.com/VPariz/Pipeline-filogenia">Pipeline de Filogenia & Compressão (NCD)</a></h3>
-      <p><b>Pesquisa PIBIC/CNPq — Artigo Submetido ao BSB 2026</b></p>
+      <p><b>Pesquisa PIBIC/CNPq (IME & PUC-Rio) — X-Meeting 2026</b></p>
       <ul>
         <li>Pipeline computacional para reconstrução filogenética de genomas de mamíferos sem necessidade de alinhamento sequencial múltiplo.</li>
         <li>Combina Teoria da Informação (Complexidade de Kolmogorov), compressores estatísticos (<code>zstd</code>, <code>brotli</code>, <code>ppmd</code>) e gramaticais (<code>IRR-C</code>).</li>
@@ -123,13 +122,9 @@
   *Comparative Evaluation of Low-Cost Sensing and Mapping Solutions for Teleoperated Ground Robots in USAR*  
   *Publicado na série Springer Lecture Notes in Computer Science (LNCS)* | Coautor.
 
-* 🧬 **X-Meeting 2026 (Brazilian Symposium on Bioinformatics)**  
+* 🧬 **X-Meeting 2026 (Brazilian Symposium on Bioinformatics / AB3C)**  
   *GRAMMAR-BASED COMPRESSION FOR EVOLUTIONARY DISTANCE ESTIMATION: Mammalian Phylogenetics via NCD: Grammars vs. Conventional Compression*  
-  *Publicado / Pôster Conferência* | Autor Principal.
-
-* 📝 **BSB 2026 (Brazilian Symposium on Bioinformatics / SBC)**  
-  *Normalized Compression Distance for Phylogenetic Tree Reconstruction*  
-  *Artigo Completo Submetido / Em Revisão* | Autor Principal.
+  *Apresentado no congresso / Resumo & Pôster Oficial* | Autor Principal.
 
 ---
 
@@ -153,6 +148,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-João_Victor_Pariz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joao-victor-pariz)
 [![GitHub](https://img.shields.io/badge/GitHub-VPariz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VPariz)
 
-📍 **Rio de Janeiro, Brasil** · 🇪🇺 **Cidadão Europeu (Passaporte Italiano)**
+📍 **Rio de Janeiro, Brasil**
 
 </div>

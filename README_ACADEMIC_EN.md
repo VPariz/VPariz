@@ -42,13 +42,9 @@
    *Comparative Evaluation of Low-Cost Sensing and Mapping Solutions for Teleoperated Ground Robots in USAR*  
    *Published in Springer Lecture Notes in Computer Science (LNCS)* | Co-author.
 
-2. **BSB 2026 (Brazilian Symposium on Bioinformatics / Brazilian Computer Society)**  
-   *Normalized Compression Distance for Phylogenetic Tree Reconstruction*  
-   *Full Paper in Revision / Journal Preparation* | Primary Author.
-
-3. **X-Meeting 2026 (Brazilian Association of Bioinformatics & Computational Biology)**  
+2. **X-Meeting 2026 (Brazilian Association of Bioinformatics & Computational Biology)**  
    *Grammar-Based Compression for Evolutionary Distance Estimation: Mammalian Phylogenetics via NCD*  
-   *Conference Poster / Published* | Primary Author.
+   *Conference Poster & Abstract* | Primary Author.
 
 ---
 

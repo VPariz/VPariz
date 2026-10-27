@@ -8,7 +8,7 @@ Reúne o que você pode preencher nas opções do seu perfil e em cada repositó
 
 * **Name:** `João Victor Pariz`
 * **Bio:**  
-  `Engenharia Eletrônica @ IME | Sistemas Embarcados (C/C++ & Linux Kernel), Teoria da Informação & Robótica | Cidadão UE 🇪🇺`
+  `Engenharia Eletrônica @ IME | Sistemas Embarcados (C/C++ & Linux Kernel), Teoria da Informação & Robótica`
 * **Company:** `@roboime` ou `Instituto Militar de Engenharia (IME)`
 * **Location:** `Rio de Janeiro, Brasil`
 * **Website / Social:** `https://linkedin.com/in/joao-victor-pariz`
@@ -19,7 +19,7 @@ Reúne o que você pode preencher nas opções do seu perfil e em cada repositó
 
 Na página inicial do seu perfil (`https://github.com/VPariz`), clique em **"Customize your pins"** e escolha os 4 principais:
 
-1. ⭐ **`Pipeline-filogenia`** (Iniciação Científica PIBIC / BSB 2026 / X-Meeting)
+1. ⭐ **`Pipeline-filogenia`** (Iniciação Científica PIBIC / X-Meeting 2026)
 2. ⭐ **`stm32-projeto-final-prog-aplicada`** (Linux IIO Kernel Driver em C++ na STM32MP1)
 3. ⭐ **`modelos-tr3`** (Análise Estocástica e Espectral de Vídeo)
 4. ⭐ **`benchmark-slam-usar`** (Artigo aceito na Springer LNCS com robôs do RoboIME)

@@ -25,7 +25,7 @@ Este repositório é especial e funciona como a "página inicial" do seu perfil 
 
 Acesse [https://github.com/settings/profile](https://github.com/settings/profile) e preencha:
 * **Name:** `João Victor Pariz`
-* **Bio:** `Engenharia Eletrônica @ IME | Sistemas Embarcados (C/C++ & Linux Kernel), Teoria da Informação & Robótica | Cidadão UE 🇪🇺`
+* **Bio:** `Engenharia Eletrônica @ IME | Sistemas Embarcados (C/C++ & Linux Kernel), Teoria da Informação & Robótica`
 * **Company:** `@roboime` ou `Instituto Militar de Engenharia (IME)`
 * **Location:** `Rio de Janeiro, Brazil`
 * **Website / Social link:** `https://linkedin.com/in/joao-victor-pariz`
