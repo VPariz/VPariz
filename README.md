@@ -18,11 +18,11 @@
 
 ### 🚀 About Me
 
-* 🎓 **Education:** B.Eng. in Electronics Engineering at **Instituto Militar de Engenharia (IME)** — Rio de Janeiro, Brazil (Cumulative GPA > 8.0 / 10.0).
+* 🎓 **Education:** Electronics Engineering undergraduate at **Instituto Militar de Engenharia (IME)** — Rio de Janeiro, Brazil.
+* 🔧 **Embedded & Systems:** Practical experience with heterogeneous SoCs (**STM32MP157D-DK1**), **Linux Industrial I/O (IIO)** kernel driver development in C++, ARM cross-compilation (Buildroot), and bare-metal STM32 firmware development.
 * 🔬 **Research (PIBIC/CNPq):** Designing high-throughput computational pipelines for mammalian phylogenomic inference using Kolmogorov Complexity, Normalized Compression Distance (NCD), and grammar-based compressors (IRR-C / ACFG). Presented at **X-Meeting 2026 (AB3C)**.
 * 🤖 **Autonomous Robotics (RoboIME):** Co-authored empirical research published in **Springer LNCS (ISMCR 2026)** on 3D LiDAR sensing, depth estimation, and SLAM benchmarking (ORB-SLAM3, Cartographer) for Urban Search and Rescue (USAR).
-* 🐧 **Embedded & Systems:** Practical experience with heterogeneous SoCs (**STM32MP157D-DK1**), **Linux Industrial I/O (IIO)** kernel driver development in C++, ARM cross-compilation (Buildroot), and Linux server administration (Certified by Brazilian Army 5th CTA).
-* 🌐 **Languages:** English (Professional / **CIDEX IPL ING 3 3 3 3 · C1 · Cambridge B2 First**), German (Intermediate / **DSD I · B1**), Spanish (Technical Reading), Portuguese (Native).
+* 🌐 **Languages:** English (Fluent / Professional), German (Conversational), Spanish (Technical Reading), Portuguese (Native).
 
 ---
 
