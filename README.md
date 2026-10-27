@@ -8,9 +8,11 @@
 
 <br/>
 
-> **Electronics Engineering Undergraduate & Researcher @ Instituto Militar de Engenharia (IME)**  
-> PIBIC/CNPq Researcher in Information Theory & Phylogenomics · RoboIME Autonomous Systems (USAR)  
-> Core Focus: **Embedded Systems (C/C++ & Linux Kernel)**, **Robotics (ROS 2)**, and **Scientific Computing**.
+<p align="center">
+  <b>Electronics Engineering Undergraduate & Researcher @ Instituto Militar de Engenharia (IME)</b><br/>
+  PIBIC/CNPq Researcher in Information Theory & Phylogenomics · RoboIME Autonomous Systems (USAR)<br/>
+  Core Focus: <b>Embedded Systems (C/C++ & Linux Kernel)</b>, <b>Robotics (ROS 2)</b>, and <b>Scientific Computing</b>
+</p>
 
 </div>
 
@@ -40,6 +42,7 @@
 #### Embedded Systems, Kernel & Hardware
 [![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)](https://www.st.com/)
 [![Linux IIO](https://img.shields.io/badge/Linux_Kernel_IIO-FCC624?style=flat-square&logo=linux&logoColor=black)](https://kernel.org/)
+[![FreeRTOS](https://img.shields.io/badge/FreeRTOS-008B8B?style=flat-square&logo=freertos&logoColor=white)](https://freertos.org/)
 [![ARM](https://img.shields.io/badge/ARM_Cortex--M%2FA7-0091BD?style=flat-square&logo=arm&logoColor=white)](https://arm.com/)
 [![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white)](https://ros.org/)
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)](https://arduino.cc/)
@@ -58,6 +61,7 @@
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
 [![Buildroot](https://img.shields.io/badge/Buildroot-2D3748?style=flat-square&logo=gnu&logoColor=white)](https://buildroot.org/)
+[![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)](https://cmake.org/)
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 
 </div>
