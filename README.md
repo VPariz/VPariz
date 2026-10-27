@@ -1,153 +1,152 @@
 <div align="center">
 
-# Olá, sou o João Victor Pariz! 👋
+# João Victor Pariz 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joao-victor-pariz)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VPariz)
-[![Status](https://img.shields.io/badge/IME-Engenharia_Eletrônica-104911?style=for-the-badge&logo=academia&logoColor=white)](https://www.ime.eb.mil.br/)
+[![IME](https://img.shields.io/badge/IME-Electronics_Engineering-104911?style=for-the-badge&logo=academia&logoColor=white)](https://www.ime.eb.mil.br/)
 
 <br/>
 
-> **Estudante de Engenharia Eletrônica no Instituto Militar de Engenharia (IME)**  
-> Pesquisador PIBIC/CNPq em Teoria da Informação & Bioinformática · Membro de P&D do RoboIME  
-> Foco em **Sistemas Embarcados**, **C/C++**, **Linux Kernel/Industrial**, **Robótica Móvel (ROS 2)** e **Computação Científica**.
+> **Electronics Engineering Undergraduate & Researcher @ Instituto Militar de Engenharia (IME)**  
+> PIBIC/CNPq Researcher in Information Theory & Phylogenomics · RoboIME Autonomous Systems (USAR)  
+> Core Focus: **Embedded Systems (C/C++ & Linux Kernel)**, **Robotics (ROS 2)**, and **Scientific Computing**.
 
 </div>
 
 ---
 
-### ⚡ Resumo Rápido
+### 🚀 About Me
 
-* 🎓 **Formação:** Bacharelado em Engenharia Eletrônica pelo **Instituto Militar de Engenharia (IME)** — Rio de Janeiro, Brasil (CR > 8.0).
-* 🔬 **Iniciação Científica (PIBIC/CNPq):** Desenvolvimento de pipelines para reconstrução filogenética via Distância de Compressão Normalizada (NCD) e compressores gramaticais (IRR-C / ACFG). Trabalho aceito e apresentado no **X-Meeting 2026**.
-* 🤖 **Robótica & Autonomia (RoboIME):** Coautor de artigo no **ISMCR 2026 (Springer LNCS)** sobre sensoriamento 3D, LiDAR e SLAM (ORB-SLAM3/Cartographer) com ROS 2 e TurtleBot3.
-* 🐧 **Sistemas & Embarcados:** Experiência prática com microcontroladores (STM32, STM32MP1), subsistema Linux Industrial I/O (IIO), compilação cruzada ARM (Buildroot) e administração Linux Debian (5º CTA / Exército Brasileiro).
-* 🌐 **Idiomas:** Inglês Fluente (**CIDEX IPL ING 3 3 3 3 / C1 / Cambridge B2 First**), Alemão Intermediário (DSD I / CIDEX ALE 2 2), Espanhol Instrumental.
+* 🎓 **Education:** B.Eng. in Electronics Engineering at **Instituto Militar de Engenharia (IME)** — Rio de Janeiro, Brazil (Cumulative GPA > 8.0 / 10.0).
+* 🔬 **Research (PIBIC/CNPq):** Designing high-throughput computational pipelines for mammalian phylogenomic inference using Kolmogorov Complexity, Normalized Compression Distance (NCD), and grammar-based compressors (IRR-C / ACFG). Presented at **X-Meeting 2026 (AB3C)**.
+* 🤖 **Autonomous Robotics (RoboIME):** Co-authored empirical research published in **Springer LNCS (ISMCR 2026)** on 3D LiDAR sensing, depth estimation, and SLAM benchmarking (ORB-SLAM3, Cartographer) for Urban Search and Rescue (USAR).
+* 🐧 **Embedded & Systems:** Practical experience with heterogeneous SoCs (**STM32MP157D-DK1**), **Linux Industrial I/O (IIO)** kernel driver development in C++, ARM cross-compilation (Buildroot), and Linux server administration (Certified by Brazilian Army 5th CTA).
+* 🌐 **Languages:** English (Professional / **CIDEX IPL ING 3 3 3 3 · C1 · Cambridge B2 First**), German (Intermediate / **DSD I · B1**), Spanish (Technical Reading), Portuguese (Native).
 
 ---
 
-### 🛠️ Stack Tecnológica & Ferramentas
+### 🛠️ Tech Stack & Tooling
 
 <div align="center">
 
-#### Linguagens de Programação
+#### Programming & Scripting Languages
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org/)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![MATLAB](https://img.shields.io/badge/MATLAB-ED8B00?style=flat-square&logo=mathworks&logoColor=white)](https://mathworks.com/)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://w3schools.com/)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://w3schools.com/)
 
-#### Sistemas Embarcados & Hardware
+#### Embedded Systems, Kernel & Hardware
 [![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)](https://www.st.com/)
-[![Linux Embedded](https://img.shields.io/badge/Linux_IIO_Kernel-FCC624?style=flat-square&logo=linux&logoColor=black)](https://kernel.org/)
+[![Linux IIO](https://img.shields.io/badge/Linux_Kernel_IIO-FCC624?style=flat-square&logo=linux&logoColor=black)](https://kernel.org/)
+[![ARM](https://img.shields.io/badge/ARM_Cortex--M%2FA7-0091BD?style=flat-square&logo=arm&logoColor=white)](https://arm.com/)
 [![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white)](https://ros.org/)
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)](https://arduino.cc/)
 [![Altium](https://img.shields.io/badge/Altium_Designer-A5915F?style=flat-square&logo=altium-designer&logoColor=white)](https://altium.com/)
 
-#### Computação Científica & Engenharia de Dados
+#### Scientific Computing & Data Engineering
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/)
 [![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=black)](https://scipy.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)](https://matplotlib.org/)
 [![BioPython](https://img.shields.io/badge/BioPython-3776AB?style=flat-square&logo=python&logoColor=white)](https://biopython.org/)
 
-#### Infraestrutura, Metodologia & Ferramentas
+#### Systems, Infrastructure & Developer Tools
 [![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)](https://debian.org/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
-[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+[![Buildroot](https://img.shields.io/badge/Buildroot-2D3748?style=flat-square&logo=gnu&logoColor=white)](https://buildroot.org/)
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 
 </div>
 
 ---
 
-### 🚀 Projetos em Destaque
+### 📖 Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧬 <a href="https://github.com/VPariz/Pipeline-filogenia">Pipeline de Filogenia & Compressão (NCD)</a></h3>
-      <p><b>Pesquisa PIBIC/CNPq (IME & PUC-Rio) — X-Meeting 2026</b></p>
+      <h3>🧬 <a href="https://github.com/VPariz/Pipeline-filogenia">Phylogenomics Compression Pipeline (NCD)</a></h3>
+      <p><b>PIBIC/CNPq Research (IME & PUC-Rio) — X-Meeting 2026</b></p>
       <ul>
-        <li>Pipeline computacional para reconstrução filogenética de genomas de mamíferos sem necessidade de alinhamento sequencial múltiplo.</li>
-        <li>Combina Teoria da Informação (Complexidade de Kolmogorov), compressores estatísticos (<code>zstd</code>, <code>brotli</code>, <code>ppmd</code>) e gramaticais (<code>IRR-C</code>).</li>
-        <li>Validação estatística rigorosa contra árvores bayesianas de referência (VertLife) via métricas topológicas (Robinson-Foulds, CTS) e testes de permutação Monte Carlo.</li>
+        <li>Alignment-free computational pipeline for mammalian whole-genome phylogenetic reconstruction.</li>
+        <li>Combines Algorithmic Information Theory (Kolmogorov Complexity), statistical compressors (<code>zstd</code>, <code>brotli</code>, <code>ppmd</code>), and grammar-based compressors (<code>IRR-C</code>).</li>
+        <li>Rigorous statistical validation against Bayesian reference trees (VertLife) via topological metrics (Robinson-Foulds, CTS) and Monte Carlo permutation tests.</li>
       </ul>
-      <p><code>Python</code> · <code>Bioinformática</code> · <code>Algoritmos</code> · <code>SciPy</code></p>
+      <p><b>Technologies:</b> <code>Python</code> • <code>BioPython</code> • <code>SciPy</code> • <code>Information Theory</code> • <code>Algorithms</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🛰️ <a href="https://github.com/VPariz/stm32-projeto-final-prog-aplicada">Monitoramento IoT com STM32MP157D & Linux IIO</a></h3>
-      <p><b>Projeto Final de Engenharia Eletrônica (IME 2026)</b></p>
+      <h3>🛰️ <a href="https://github.com/VPariz/stm32-projeto-final-prog-aplicada">IoT Telemetry & Embedded Linux IIO</a></h3>
+      <p><b>Electronics Engineering Capstone (IME 2026)</b></p>
       <ul>
-        <li>Solução embarcada completa em C++ orientada a objetos rodando em espaço de usuário no Linux do kit <b>STM32MP157D-DK1</b>.</li>
-        <li>Driver C++ (<code>IrObstacleSensor</code>) com leitura nativa do subsistema <b>Linux Industrial I/O (IIO)</b> do Kernel para monitoramento de cargas sensíveis.</li>
-        <li>Arquitetura modular com compilação cruzada ARM (Buildroot), telemetria via sockets UDP e Dashboard gráfico em tempo real.</li>
+        <li>End-to-end user-space C++ application deployed on the dual-core <b>STM32MP157D-DK1</b> heterogeneous SoC.</li>
+        <li>Custom C++ device driver (<code>IrObstacleSensor</code>) interfacing natively with the <b>Linux Industrial I/O (IIO)</b> kernel subsystem for real-time proximity sensing.</li>
+        <li>Modular POSIX socket UDP architecture, ARM cross-compilation with Buildroot, and live visualization dashboard.</li>
       </ul>
-      <p><code>C++</code> · <code>Linux IIO</code> · <code>STM32MP1</code> · <code>UDP</code> · <code>Mermaid/UML</code></p>
+      <p><b>Technologies:</b> <code>C++</code> • <code>Linux Kernel IIO</code> • <code>STM32MP1</code> • <code>Buildroot</code> • <code>UDP Sockets</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/VPariz/benchmark-slam-usar">Robótica Móvel & Sensoriamento USAR (RoboIME)</a></h3>
-      <p><b>Artigo Publicado no ISMCR 2026 (Springer LNCS)</b></p>
+      <h3>🤖 <a href="https://github.com/VPariz/benchmark-slam-usar">USAR Autonomous Robotics & SLAM Benchmark</a></h3>
+      <p><b>Published in ISMCR 2026 (Springer LNCS)</b></p>
       <ul>
-        <li>Desenvolvimento e validação de robô terrestre autônomo (TurtleBot3) para busca e resgate em ambientes hostis.</li>
-        <li>Integração e avaliação de sensores de mapeamento 3D (LiDAR Ouster, Intel RealSense D435) sob ROS 2 e Linux Debian.</li>
-        <li>Benchmarking experimental de algoritmos de SLAM (ORB-SLAM3, Cartographer) e redes neurais de profundidade monocular.</li>
+        <li>Validation of an autonomous ground vehicle (TurtleBot3) for Urban Search and Rescue (USAR) operations.</li>
+        <li>Sensor integration and benchmarking (Ouster 3D LiDAR, Intel RealSense D435) under ROS 2 and Debian Linux.</li>
+        <li>Experimental performance analysis comparing Cartographer, ORB-SLAM3, and monocular depth neural estimation.</li>
       </ul>
-      <p><code>ROS 2</code> · <code>C++</code> · <code>Linux Debian</code> · <code>SLAM</code> · <code>LiDAR</code></p>
+      <p><b>Technologies:</b> <code>ROS 2</code> • <code>C++</code> • <code>Python</code> • <code>SLAM</code> • <code>LiDAR</code> • <code>OpenCV</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>📊 <a href="https://github.com/VPariz/modelos-tr3">Análise Estocástica de Sinais de Vídeo</a></h3>
-      <p><b>Modelos Probabilísticos & Processamento de Sinais (IME)</b></p>
+      <h3>📊 <a href="https://github.com/VPariz/modelos-tr3">Stochastic Video Signal Analysis</a></h3>
+      <p><b>Probabilistic Systems & Signal Processing (IME)</b></p>
       <ul>
-        <li>Estudo estocástico e espectral de sequências de quadros de vídeo codificados em padrões H.263 e MPEG-4.</li>
-        <li>Cálculo de momentos estatísticos (média, variância, VMQ, RMS), matrizes de covariância e descorrelação.</li>
-        <li>Extração de Funções de Autocorrelação (FAC) e Densidade Espectral de Potência (DEP) em dB com análise cromática de ruído.</li>
+        <li>Spectral and stochastic modeling of video sequences encoded under H.263 and MPEG-4 standards.</li>
+        <li>Computation of statistical moments (mean, variance, RMS, VMQ), covariance matrices, and signal decorrelation.</li>
+        <li>Extraction of Autocorrelation Functions (ACF) and Power Spectral Density (PSD) with noise chromaticity analysis.</li>
       </ul>
-      <p><code>Python</code> · <code>Processamento de Sinais</code> · <code>NumPy</code> · <code>Matplotlib</code></p>
+      <p><b>Technologies:</b> <code>Python</code> • <code>Signal Processing</code> • <code>NumPy</code> • <code>SciPy</code> • <code>Matplotlib</code></p>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📄 Artigos & Publicações Científicas
+### 📑 Selected Publications
 
 * 🏆 **ISMCR 2026 (27th International Symposium on Measurement and Control in Robotics)**  
   *Comparative Evaluation of Low-Cost Sensing and Mapping Solutions for Teleoperated Ground Robots in USAR*  
-  *Publicado na série Springer Lecture Notes in Computer Science (LNCS)* | Coautor.
+  *Published in Springer Lecture Notes in Computer Science (LNCS)* | Co-author.
 
-* 🧬 **X-Meeting 2026 (Brazilian Symposium on Bioinformatics / AB3C)**  
-  *GRAMMAR-BASED COMPRESSION FOR EVOLUTIONARY DISTANCE ESTIMATION: Mammalian Phylogenetics via NCD: Grammars vs. Conventional Compression*  
-  *Apresentado no congresso / Resumo & Pôster Oficial* | Autor Principal.
-
----
-
-### 📈 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VPariz&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true&count_private=true" height="165" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VPariz&layout=compact&theme=tokyonight&locale=pt-br&hide_border=true&card_width=320" height="165" alt="Linguagens Mais Utilizadas" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=VPariz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+* 🧬 **X-Meeting 2026 (Brazilian Association of Bioinformatics & Computational Biology - AB3C)**  
+  *Grammar-Based Compression for Evolutionary Distance Estimation: Mammalian Phylogenetics via NCD*  
+  *Conference Proceedings & Poster* | Primary Author.
 
 ---
 
-### 📫 Onde Me Encontrar
+### 📈 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VPariz&show_icons=true&theme=tokyonight&locale=en&hide_border=true&hide_rank=true&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VPariz&layout=compact&theme=tokyonight&locale=en&hide_border=true&card_width=320" height="165" alt="Most Used Languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=VPariz&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Streak" />
+</div>
+
+---
+
+### 📫 Connect With Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-João_Victor_Pariz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joao-victor-pariz)
 [![GitHub](https://img.shields.io/badge/GitHub-VPariz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VPariz)
 
-📍 **Rio de Janeiro, Brasil**
+📍 **Rio de Janeiro, Brazil**
 
 </div>
