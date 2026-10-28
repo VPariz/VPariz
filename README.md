@@ -121,7 +121,7 @@
 <summary><b>🔍 Other Systems, Firmware & Open-Source Repositories</b></summary>
 <br/>
 
-* 🎮 [**jogo-da-velha-sockets-tcp**](https://github.com/VPariz/jogo-da-velha-sockets-tcp) — Two-player network Tic-Tac-Toe in C over raw TCP sockets (Winsock2) with custom application-layer message protocol, turn synchronization, and official LaTeX technical report (IME).
+* 🎮 [**jogo-da-velha-sockets-tcp**](https://github.com/VPariz/jogo-da-velha-sockets-tcp) — Cross-platform network Tic-Tac-Toe in C over raw TCP sockets (POSIX & Winsock2) with custom application-layer message protocol, turn synchronization, and official LaTeX technical report (IME).
 * ⚡ [**Teste-Ponte-H**](https://github.com/VPariz/Teste-Ponte-H) — Bare-metal C firmware for dual DC motor actuation through H-bridge power stages on STM32 BluePill (STM32F103 / HAL) for RoboIME robotics.
 * 🌐 [**esp32-home-automation-iot**](https://github.com/VPariz/esp32-home-automation-iot) — ESP32 smart home automation firmware (embedded HTTP webserver with STA/SoftAP failover, Bluetooth SPP remote control, and optocoupled AC relay actuation) with comprehensive 9-page LaTeX engineering guide.
 * 🤖 [**bot-promocoes-telegram**](https://github.com/VPariz/bot-promocoes-telegram) — Asynchronous Telegram scraper using MTProto with hierarchical multi-LLM deal extraction (Groq, DeepSeek, Gemini) and Google Sheets integration.
