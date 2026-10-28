@@ -147,7 +147,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VPariz&show_icons=true&theme=tokyonight&locale=en&hide_border=true&hide_rank=true&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VPariz&layout=compact&theme=tokyonight&locale=en&hide_border=true&card_width=320" height="165" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VPariz&layout=compact&theme=tokyonight&locale=en&hide_border=true&card_width=320&langs_count=6" height="165" alt="Most Used Languages" />
 </div>
 
 <div align="center">
